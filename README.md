@@ -123,7 +123,7 @@ Après analyse du Variance Inflation Factor (VIF > 46 sur `Infant_deaths`, VIF >
 | `scipy.stats` | Shapiro-Wilk, Kolmogorov-Smirnov, Anderson-Darling, Q-Q plot |
 
 ---
-
+| **Source du dataset** | [Life Expectancy Data — OMS / Banque Mondiale (version enrichie)](https://www.kaggle.com/datasets/lashagoch/life-expectancy-who-updated/) |
 
 
 ---
