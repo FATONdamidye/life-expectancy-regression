@@ -124,27 +124,7 @@ Après analyse du Variance Inflation Factor (VIF > 46 sur `Infant_deaths`, VIF >
 
 ---
 
-## 🚀 Lancer le projet
 
-```bash
-# Cloner le dépôt
-git clone https://github.com/<votre-username>/<votre-repo>.git
-cd <votre-repo>
-
-# Installer les dépendances
-pip install pandas numpy matplotlib seaborn statsmodels scikit-learn scipy
-
-# Ouvrir le notebook
-jupyter notebook Linear_regression.ipynb
-```
-
-> ⚠️ Adapter le chemin du fichier CSV dans la cellule 4 du notebook.
-
----
-
-## 👤 Auteur
-
-Projet réalisé dans le cadre d'une démarche d'apprentissage en Data Science appliquée aux données de santé publique mondiale.
 
 ---
 
