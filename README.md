@@ -17,17 +17,6 @@ Ce projet implémente un **modèle de régression linéaire multiple (OLS)** pou
 
 ---
 
-## 🗂️ Structure du projet
-
-```
-├── Data/
-│   └── Processed/
-│       └── Life-Expectancy-Data-Updated.csv   # Dataset source
-├── Linear_regression.ipynb                    # Notebook principal
-└── README.md
-```
-
----
 
 ## 📊 Dataset
 
